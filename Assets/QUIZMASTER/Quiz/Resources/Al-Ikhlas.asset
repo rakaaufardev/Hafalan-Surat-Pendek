@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: Al-Ikhlas
+  m_EditorClassIdentifier: 
+  categoryName: Al-Ikhlas
+  questions:
+  - questionInfo: Lengkapi Potongan Ayat berikut!
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: e150a7eaa4f9fab4f997774e0daaae3e, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "\uFE76\uFEEE\uFE78\uFEEB"
+    - "\uFE72\uFEAA\uFE77\uFEA4\uFE76\uFE83"
+    - "\uFE7E\uFEE0\uFE78\uFED7"
+    - "\uFE78\uFEAA\uFE77\uFEE4\uFE77\uFE7D\uFEBC\uFEDF\uFB50"
+    correctAns: "\uFE76\uFEEE\uFE78\uFEEB"
+  - questionInfo: Lengkapi Potongan Ayat berikut!
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: db89418b55c751f4480100df8d062da5, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "\uFE78\uFEAA\uFE77\uFEE4\uFE77\uFE7D\uFEBC\uFEDF\uFB50"
+    - "\uFE7E\uFEE4\uFE76\uFEDF"
+    - "\uFE7E\uFEAA\uFE76\uFEDF\uFEEE\uFE78\uFEF3"
+    - "\uFE8E\uFE70\uFEEE\uFE79\uFED4\uFE78\uFEDB"
+    correctAns: "\uFE78\uFEAA\uFE77\uFEE4\uFE77\uFE7D\uFEBC\uFEDF\uFB50"
+  - questionInfo: Lengkapi Potongan Ayat berikut!
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: ab3267c097338d94383b32bb48987f98, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "\uFE7E\uFEAA\uFE76\uFEDF\uFEEE\uFE78\uFEF3"
+    - "\uFE7E\uFEE4\uFE77\uFEE0\uFE76\uFEED"
+    - "\uFE7E\uFEAA\uFE7B\uFEE0\uFE76\uFEF3"
+    - "\uFE78\uFEAA\uFE77\uFEE4\uFE77\uFE7D\uFEBC\uFEDF\uFB50"
+    correctAns: "\uFE7E\uFEAA\uFE76\uFEDF\uFEEE\uFE78\uFEF3"
+  - questionInfo: Lengkapi Potongan Ayat berikut!
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: c6a3d6a84860917408936fb818b77b7b, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "\uFEE6\uFE79\uFEDC\uFE76\uFEF3"
+    - "\uFE7E\uFEAA\uFE76\uFEDF\uFEEE\uFE78\uFEF3"
+    - "\uFE8E\uFE70\uFEEE\uFE79\uFED4\uFE78\uFEDB"
+    - "\u0642\u064F\u0644\u0652"
+    correctAns: "\uFEE6\uFE79\uFEDC\uFE76\uFEF3"

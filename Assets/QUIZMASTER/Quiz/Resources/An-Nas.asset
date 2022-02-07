@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: An-Nas
+  m_EditorClassIdentifier: 
+  categoryName: An-Nas
+  questions:
+  - questionInfo: Lengkapi Potongan Ayat berikut!
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: c0d15c4f970ac93498603a558441b748, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "\uFE7A\uFEDC\uFE7B\uFEE0\uFE76\uFEE3"
+    - "\uFE7A\uFEB3\uFE8E\uFE77\uFE7D\uFEE8\uFEDF\uFB50"
+    - "\uFE7E\uFEE0\uFE78\uFED7"
+    - "\uFE7A\uFE7D\uFE92\uFE76\uFEAE\uFE7A\uFE91"
+    correctAns: "\uFE7A\uFE7D\uFE92\uFE76\uFEAE\uFE7A\uFE91"
+  - questionInfo: Lengkapi Potongan Ayat berikut!
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: ffc15f091f9694543a8504feac761100, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "\uFE7A\uFEDC\uFE7B\uFEE0\uFE76\uFEE3"
+    - "\uFE7A\uFEB3\uFE8E\uFE76\uFEEE\uFE7F\uFEB4\uFE76\uFEEE\uFE7E\uFEDF\uFB50"
+    - "\uFEF0\uFE7A\uFED3"
+    - "\uFE7A\uFEAD\uFEEE\uFE78\uFEAA\uFE78\uFEBB"
+    correctAns: "\uFE7A\uFEDC\uFE7B\uFEE0\uFE76\uFEE3"
+  - questionInfo: Lengkapi Potongan Ayat berikut!
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 559eb0becded23a4094594943adb5af1, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "\uFE7A\uFEB3\uFE8E\uFE7D\uFE77\uFEE8\uFEDF\uFB50"
+    - "\uFE7A\uFEB3\uFE8E\uFE77\uFE7D\uFEE8\uFE77\uFEA8\uFE7E\uFEDF\uFB50"
+    - "\uFE7A\uFEDC\uFE7B\uFEE0\uFE76\uFEE3"
+    - "\uFEE6\uFE7A\uFEE3"
+    correctAns: "\uFE7A\uFEB3\uFE8E\uFE7D\uFE77\uFEE8\uFEDF\uFB50"
+  - questionInfo: Lengkapi Potongan Ayat berikut!
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: bd009bb7c0623e742b520f2db0853ad4, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "\uFE7A\uFEB3\uFE8E\uFE76\uFEEE\uFE7F\uFEB4\uFE76\uFEEE\uFE7E\uFEDF\uFB50"
+    - "\uFE7A\uFE94\uFE77\uFE7D\uFEE8\uFE7B\uFEA0\uFE7E\uFEDF\uFB50"
+    - "\uFE7A\uFEB3\uFE8E\uFE77\uFE7D\uFEE8\uFEDF\uFE8D"
+    - "\uFE7A\uFEB3\uFE8E\uFE77\uFE7D\uFEE8\uFE77\uFEA8\uFE7E\uFEDF\uFE8D"
+    correctAns: "\uFE7A\uFEB3\uFE8E\uFE76\uFEEE\uFE7F\uFEB4\uFE76\uFEEE\uFE7E\uFEDF\uFB50"
+  - questionInfo: Lengkapi Potongan Ayat berikut!
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: be9f515e3e674bd4ab22bb6af2fe154c, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "\uFE78\uFEB4\uFE7A\uFEEE\uFE7F\uFEB4\uFE76\uFEEE\uFE78\uFBFE"
+    - "\uFE7A\uFE7D\uFE92\uFE76\uFEAE\uFE7A\uFE91"
+    - "\uFEF0\uFE7A\uFEAC\uFE76\uFE7C\uFEDF\uFB50"
+    - "\uFE76\uFEE8\uFE7A\uFEE3"
+    correctAns: "\uFE78\uFEB4\uFE7A\uFEEE\uFE7F\uFEB4\uFE76\uFEEE\uFE78\uFBFE"
+  - questionInfo: Lengkapi Potongan Ayat berikut!
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: efe386b779637764b91dee759cc4eccc, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "\uFE7A\uFEB3\uFE8E\uFE77\uFE7D\uFEE8\uFEDF\uFB51\uFE76\uFEED"
+    - "\uFE7A\uFEDC\uFE7B\uFEE0\uFE76\uFEE3"
+    - "\uFE78\uFEAC\uFE7E\uFEEE\uFE79\uFECC\uFE76\uFE8D"
+    - "\uFE7E\uFEE0\uFE78\uFED7"
+    correctAns: "\uFE7A\uFEB3\uFE8E\uFE77\uFE7D\uFEE8\uFEDF\uFB51\uFE76\uFEED"
